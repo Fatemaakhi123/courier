@@ -1,0 +1,17 @@
+@media only screen and (max-width: 420px) {
+    .slid {
+        padding: 0;
+   }
+    .sli {
+        padding: 16px 10px;
+   }
+    .sli img {
+        margin: 0;
+   }
+    .control-prev-btn {
+        top: 37%;
+   }
+    .control-next-btn {
+        top: 37%;
+   }
+}
